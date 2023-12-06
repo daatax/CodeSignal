@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<StartupObject>Intro.LandOfLogic.Sudoku</StartupObject>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Folder Include="ExploringTheWaters\" />
+		<Folder Include="IslandOfKnowledge\" />
+		<Folder Include="ThroughTheFog\" />
+		<Folder Include="RainsOfReason\" />
+		<Folder Include="TheJourneyBegins\" />
+		<Folder Include="EdgeOfTheOcean\" />
+		<Folder Include="SmoothSailing\" />
+	</ItemGroup>
+
+</Project>
